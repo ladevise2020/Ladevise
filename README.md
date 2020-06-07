@@ -1,7 +1,7 @@
 Ladevise integration/staging tree
 ================================
 
-https://www.ladevise.Com
+https://www.ladevise.co
 
 
 What is Ladevise?
@@ -12,7 +12,7 @@ Ladevise is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
 
 
 For more information, as well as an immediately useable, binary version of
-the Ladevise client sofware, see http://www.ladevise.Com.
+the Ladevise client sofware, see https://www.ladevise.co.
 
 
 Development process
