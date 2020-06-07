@@ -1,0 +1,9 @@
+Building Ladevise
+
+See doc/readme-qt.rst for instructions on building Ladevise-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ladevise.
+
+See doc/build-*.txt for instructions on building ladevised,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ladevise.
